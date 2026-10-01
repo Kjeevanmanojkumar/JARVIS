@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Reactor Ring -->
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M54,24 A30,30 0 1 0 54,84 A30,30 0 1 0 54,24" />
+
+    <!-- Outer Segment Accents -->
+    <path
+        android:strokeColor="#80D8FF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M54,20 L54,26 M54,82 L54,88 M20,54 L26,54 M82,54 L88,54 M30,30 L35,35 M78,78 L73,73 M30,78 L35,73 M78,30 L73,35" />
+
+    <!-- Mid Reactor Ring -->
+    <path
+        android:strokeColor="#00B0FF"
+        android:strokeWidth="2.0"
+        android:fillColor="#00000000"
+        android:pathData="M54,32 A22,22 0 1 0 54,76 A22,22 0 1 0 54,32" />
+
+    <!-- Reactor Segments / Coils -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M51,34 L57,34 L56,40 L52,40 Z M51,68 L57,68 L56,74 L52,74 Z M34,51 L34,57 L40,56 L40,52 Z M68,51 L68,57 L74,56 L74,52 Z" />
+
+    <!-- Inner Core Glow -->
+    <path
+        android:fillColor="#1500E5FF"
+        android:pathData="M54,40 A14,14 0 1 0 54,68 A14,14 0 1 0 54,40" />
+
+    <!-- Inner Core Ring -->
+    <path
+        android:strokeColor="#B388FF"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M54,44 A10,10 0 1 0 54,64 A10,10 0 1 0 54,44" />
+
+    <!-- Center Reactor Energy Core -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,48 A6,6 0 1 0 54,60 A6,6 0 1 0 54,48" />
+
+    <!-- Stylized JARVIS Triangle Crest -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,46 L60,57 L48,57 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,49 L58,56 L50,56 Z" />
+</vector>
